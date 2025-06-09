@@ -46,7 +46,7 @@ public class Mammal {
         System.out.println("The mammal is sitting.");
     }
 
-    // Main method for testing
+    // main
     public static void main(String[] args) {
         Mammal myMammal = new Mammal();
         myMammal.run();
