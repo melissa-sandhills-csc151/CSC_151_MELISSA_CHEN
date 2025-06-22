@@ -25,6 +25,7 @@ public class Mammal {
     }
 
     // Lab 2 existing methods. the lines describe/print what the mammal is doing 
+    //these don't print because I don't call them at the Main.java file
     public void run() {
         System.out.println("The mammal is running.");
     }
