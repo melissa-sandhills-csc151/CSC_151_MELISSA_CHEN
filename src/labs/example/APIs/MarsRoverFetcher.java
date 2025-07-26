@@ -1,3 +1,7 @@
+//@author: Melissa Chen
+//@date: 2025 July 26
+//@purpose: Lab 10; fetch Mars rover photo data from NASA's API, save it as JSON, and search for the image URL within that file
+
 package labs.example.APIs;  // fix package to match folder path
 
 import java.io.*;
